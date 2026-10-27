@@ -1,7 +1,5 @@
 const cl = console.log;
 
-//-----------innerHTML Tasks---------------//
-
 //HOF >> Array helping methods >> A function which accepts another function as argument is called HOF
 //callback function >> A function which passed as argument in another function
 //OR
